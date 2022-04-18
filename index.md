@@ -21,7 +21,7 @@ e, inclusive, incentivar o aprendizado.
 
 O primeiro artigo que abre esta seção é sobre a idéia básica do que é TDD.
 
-Leia o primeiro artigo [Uma breve noção sobre o que é TDD](/o-que-e-tdd/)
+Leia o primeiro artigo [Uma breve noção sobre o que é TDD](/tdd/o-que-e-tdd/)
 
 Agora podemos partir para a prática! Aí eu caí em outro grande problema: qual linguagem usar? Por que não usar Ruby, PHP
 ou qualquer outra linguagem ? Não há a melhor escolha, mas inevitavelmente, haverá uma escolha. Eu optei por Python pois
